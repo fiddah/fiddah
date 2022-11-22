@@ -18,4 +18,5 @@ problems. Also, A self-taught coder with a keen interest in all things AI, parti
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiddah&show_icons=true&include_all_commits=true&hide_border=true" alt="Fatima's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiddah&langs_count=8&layout=compact&hide_border=true" alt="Fatima's GitHub stats" /> |
+![](https://komarev.com/ghpvc/?username=ginabeki&label=PROFILE+VIEWS)
 | ------------- | ------------- |
