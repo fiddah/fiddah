@@ -9,7 +9,7 @@ problems. Also, A self-taught coder with a keen interest in all things AI, parti
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and [ALX SE program](https://www.alxafrica.com/software-engineering-2022) Class of 2022 .
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 .
 - 🌱 I’m currently learning JavaScript, Python, C, SQL, Ml, Deep Learning.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Machine Learning Engineer(Intern or Junior level).
