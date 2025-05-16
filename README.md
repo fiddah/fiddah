@@ -9,9 +9,9 @@ problems. Also, A self-taught coder with a keen interest in all things AI, parti
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 .
-- 🌱 I’m currently learning JavaScript, Python, C, SQL, Ml, Deep Learning.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 Fun fact: I'm pursuing a BSc in Applied Artificial Intelligence at IU University of Applied Science.
+- 🌱 I’m currently learning Python, SQL, Ml, and Deep Learning.
+- 😊 I’m seeking help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Machine Learning Engineer(Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1WpSoWJILT2SozDq5M9O9PaQ6hc6Mk9Uz/view?usp=sharing) and contact me by emailing mailtorufaifatimah@yahoo.com.
 
